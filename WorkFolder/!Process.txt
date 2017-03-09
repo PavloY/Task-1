@@ -1,0 +1,9 @@
+Самодокументирование в ходе выполнения Call Analyse Module:
+1.Cоздаю Requirements;
+2.На основании Requirements создаю Activities;
+3.Оцениваю Activities и создаю WBS;
+4.Создаю RACI матрицу;
+5.Определяю Data type создаю Martix_Type;
+6.Создаю Git Repository;
+7.Добавляю второго пользователя на Git;
+
